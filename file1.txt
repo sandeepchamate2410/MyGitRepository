@@ -3,7 +3,7 @@ This is my first Git.
 
 class HelloGit{
 
-     main(){
+     public static void main(String str[]){
              sysout("Hello Git...!!!");
      }
 }
