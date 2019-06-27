@@ -3,14 +3,18 @@
 
 class HelloGit{
 
-     static void helloGit(){
+
+     public static final void helloGit(String str){
+>>>>>>> idea
          System.out.println("Hello Git..Welcome")
      
      }
      
      public static void main(String str[]){
+
          
-          HelloGit.helloGit();
+          HelloGit.helloGit("Hello");
+
      }
 
       void myBigMethod{
